@@ -1,0 +1,23 @@
+<div class="cnt-main">
+	<div class="ser-main">
+	
+	
+	<h4>Mobile Phone Price in Bangladesh</h4>
+	<hr>
+	<div class="ser-para">
+    <p>Bangladesh is one of those lands where mobile phones get usedat their highest level. People love to communicate and stay connected
+	with friends and family. Also the craze for latest smartphone apps,
+	games and features is on rise. There are many brands,models,styles,
+	features out there and as a genuine user it is important that, you
+	choose the gadget that best suits your expectation and need. We are 
+	here to help you by providing a dynamic and user friendly website that
+	has over 100 smartphones, feature phones, tabs, laptops etc.
+	in its database. Search by your budget range, brands, device type or 
+	check out upcoming devices. </p>
+    </div>
+    	
+	</div>
+
+#337ab7
+#353535
+</div>
